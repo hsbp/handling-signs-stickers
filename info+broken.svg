@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="134.64566"
+   height="75.118111"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="info+broken.svg"
+   inkscape:export-filename="/home/ppp/Dokumentumok/mrtee/othr/mate_price_stickers/info+break.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.22"
+     inkscape:cx="63.06911"
+     inkscape:cy="37.883324"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1022"
+     inkscape:window-height="579"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     units="mm"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="67.322835,0"
+       id="guide3099" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-267.23992,-292.46789)"
+     style="display:inline"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="opacity:0.93000034;fill:none;stroke:#000000;stroke-width:5.32321882;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 301.05218,304.95803 27.40372,51.23858 -54.80745,0 z"
+       id="rect3211"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.25886536px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f50000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:URW Bookman L"
+       x="295.82632"
+       y="350.07855"
+       id="text3994"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3996"
+         x="295.82632"
+         y="350.07855">i</tspan></text>
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.93000034;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.31496048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 73 16.53125 L 73 19.1875 L 73 57.125 L 73 59.78125 L 75.65625 59.78125 L 102 59.78125 L 96.96875 48.28125 L 96.65625 47.59375 L 97.25 47.1875 L 105.46875 41.4375 L 95.6875 35.25 L 94.6875 34.625 L 95.59375 33.84375 L 103.5625 26.90625 L 95.34375 16.53125 L 75.65625 16.53125 L 73 16.53125 z M 97.59375 16.53125 L 105.46875 26.46875 L 106 27.15625 L 105.34375 27.6875 L 97.65625 34.40625 L 107.5625 40.65625 L 108.6875 41.375 L 107.59375 42.125 L 98.875 48.21875 L 103.9375 59.78125 L 127.5625 59.78125 L 130.21875 59.78125 L 130.21875 57.125 L 130.21875 19.1875 L 130.21875 16.53125 L 127.5625 16.53125 L 97.59375 16.53125 z "
+       transform="translate(267.23992,292.46789)"
+       id="rect4010" />
+  </g>
+  <g
+     transform="translate(-267.23992,-292.46789)"
+     style="display:inline"
+     inkscape:label="felso"
+     id="layer2"
+     inkscape:groupmode="layer" />
+</svg>
