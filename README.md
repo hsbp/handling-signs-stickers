@@ -1,7 +1,7 @@
 handling-signs-stickers
 =======================
 
-Colorful stickers showing recommended handling and suggested amount of donation for stuffs located in our Hackerspace in Budapest
+Colorful stickers showing recommended handling and suggested amount of donation for items located in our Hackerspace, Budapest
 
 License is [CC-BY-SA V2.0](http://creativecommons.org/licenses/by-sa/2.0/)
 
